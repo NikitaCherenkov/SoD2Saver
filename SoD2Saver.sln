@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoD2Saver", "SoD2Saver.csproj", "{35CCDA16-28DA-4897-A70B-DAE42979CC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CCDA16-28DA-4897-A70B-DAE42979CC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CCDA16-28DA-4897-A70B-DAE42979CC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CCDA16-28DA-4897-A70B-DAE42979CC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CCDA16-28DA-4897-A70B-DAE42979CC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B530B80-04F2-4F0A-93C4-7DF7424CD3D9}
+	EndGlobalSection
+EndGlobal
